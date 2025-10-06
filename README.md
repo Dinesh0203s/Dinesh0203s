@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Dinesh%20S&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=0D1117&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Dinesh%20S&fontSize=60&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=0D1117&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=💡+Passionate+Software+Developer;🚀+Building+Scalable+Applications;⚡+Problem+Solving+Enthusiast;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Passionate+Computer+Science+Student;Building+Full-Stack+Applications;Competitive+Programming+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -16,138 +16,147 @@
 
 <div align="center">
 
-💡 **Passionate software developer** with expertise in **full-stack development**, **system design**, and **problem solving**.  
-🚀 Currently focused on **building scalable applications**, exploring **modern technologies**, and contributing to **open-source projects**.
+**Passionate Computer Science student** with expertise in **competitive programming**, **full-stack development**, and **problem solving**.  
+Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, Coimbatore with **8.40 CGPA**.  
+**Competitive Programming Enthusiast** with **700+ problems solved** across multiple platforms.
 
 </div>  
 
 ---
 
-## 🔧 Technical Skills  
+## Technical Skills  
 
-### 💻 Programming Languages  
+### Programming Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>  
 
-### 🎨 Frontend Development  
+### Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>  
 
-### ⚙️ Backend & Database  
+### Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>  
 
-### ☁️ Cloud & DevOps  
+### Cloud & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>  
-
-### 📊 Data & Analytics  
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-</p>  
-
-### 🛠️ Tools & Platforms  
-<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>  
+
+### Competitive Programming  
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white"/>
+</p>  
+
+### Tools & Platforms  
+<p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>    
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
-### 🚀 **Enterprise Application** – Full-Stack Web Application  
-- **Tech Stack**: React, Node.js, PostgreSQL, Docker
-- **Features**: User authentication, real-time data processing, responsive design
-- **Impact**: Improved user experience by 40% and reduced load times by 60%
+### **Personal Portfolio Website** – Responsive Web Application  
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Features**: Clean UI/UX design, smooth-scroll navigation, responsive layout
+- **Links**: [GitHub](https://github.com/Dinesh0203s) | [Live Demo](https://dinesh-portfolio.netlify.app)
+- **Impact**: Showcased skills and projects with professional presentation
 
-### 🔒 **Security Scanner** – Automated Vulnerability Assessment Tool  
-- **Tech Stack**: Python, FastAPI, MongoDB, Redis
-- **Features**: Real-time scanning, comprehensive reporting, API integration
-- **Impact**: Reduced security assessment time by 70% and improved accuracy by 85%
+### **Smart Image Share** – AI-Powered Photography Platform  
+- **Tech Stack**: React, TypeScript, Express.js, Firebase, Python Flask
+- **Features**: AI face recognition (FindMyFace), Google OAuth authentication, real-time sync
+- **Links**: [GitHub](https://github.com/Dinesh0203s) | [Live Demo](https://smart-image-share.netlify.app)
+- **Impact**: Enabled users to find and save photos using AI-powered face recognition
 
-### 📊 **Data Analytics Platform** – Business Intelligence Dashboard  
-- **Tech Stack**: Vue.js, Spring Boot, Apache Kafka, Elasticsearch
-- **Features**: Real-time data visualization, custom reporting, data export
-- **Impact**: Enabled data-driven decisions and improved business insights
+### **Vulnerability Scanner** – Cybersecurity Web Application  
+- **Tech Stack**: MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Features**: Website vulnerability scanning (SQLi, XSS), real-time detection
+- **Links**: [GitHub](https://github.com/Dinesh0203s)
+- **Impact**: Built during national-level cybersecurity hackathon for security assessment
 
-### 🌐 **Microservices Architecture** – Scalable Backend System  
-- **Tech Stack**: Java, Spring Cloud, Docker, Kubernetes
-- **Features**: Service discovery, load balancing, circuit breakers
-- **Impact**: Improved system reliability by 90% and reduced deployment time by 50%
-
----
-
-## 🏆 Professional Experience
-
-### 💼 **Senior Software Developer** | *Company Name* | *Duration*
-- Led development of microservices architecture serving 100K+ users
-- Implemented CI/CD pipelines reducing deployment time by 60%
-- Mentored junior developers and conducted code reviews
-- Collaborated with cross-functional teams to deliver high-quality software
-
-### 💼 **Full-Stack Developer** | *Company Name* | *Duration*
-- Developed responsive web applications using React and Node.js
-- Designed and implemented RESTful APIs with 99.9% uptime
-- Optimized database queries improving performance by 45%
-- Integrated third-party services and payment gateways
-
-### 💼 **Software Engineer** | *Company Name* | *Duration*
-- Built scalable backend services using Java and Spring Boot
-- Implemented automated testing increasing code coverage to 90%
-- Participated in agile development processes and sprint planning
-- Contributed to open-source projects and technical documentation
+### **Portfolio Management System** – Full-Stack Application  
+- **Tech Stack**: React, Node.js, MongoDB, Firebase
+- **Features**: Project showcase, contact management, responsive design
+- **Impact**: Professional portfolio presentation with modern UI/UX
 
 ---
 
-## 🎓 Education
+## Competitive Programming Achievements
 
-### 🏫 **Bachelor of Technology in Computer Science** | *University Name* | *Year*
-- **GPA**: 8.5/10
-- **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering
-- **Projects**: [List key academic projects]
+### **CodeChef Profile** | [kit27csbs15](https://www.codechef.com/users/kit27csbs15)
+- **Current Rating**: 1584 (2★)
+- **Problems Solved**: 420+
+- **Contests Participated**: 100+
+- **Global Rank**: 19,409 | **Country Rank**: 17,426
+- **Badges**: Contest Contender (Diamond), Problem Solver (Silver), Daily Streak (Bronze)
 
-### 🏆 **Certifications**
-- AWS Certified Solutions Architect
-- Google Cloud Professional Developer
-- Oracle Certified Java Developer
-- Docker Certified Associate
+### **LeetCode Profile** | [Dinesh_s0203](https://leetcode.com/u/Dinesh_s0203/)
+- **Problems Solved**: 200+
+- **Contest Rating**: Active participant
+- **Focus Areas**: Data Structures, Algorithms, Dynamic Programming
+
+### **Codolio Profile** | [DInesh_s](https://codolio.com/profile/DInesh_s)
+- **Problems Solved**: 700+
+- **Contests Participated**: 85+
+- **Platforms**: Multiple coding platforms
+- **Achievement**: Consistent problem-solving across various platforms
 
 ---
 
-## 📈 GitHub Analytics
+## Education
+
+### **Bachelor of Technology in Computer Science and Business Systems** | **KIT - Kalaignar Karunanidhi Institute of Technology, Coimbatore** | **2023-2027**
+- **CGPA**: 8.40/10
+- **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Business Systems
+- **Current Status**: Pursuing (3rd Year)
+
+### **Higher Secondary Education** | **Shri Vidhya Mandhir (CBSE)** | **2021-2023**
+- **Class XI and XII**: 79%
+- **Board**: CBSE
+
+### **Secondary Education** | **Shri Vidhya Mandhir (CBSE)** | **2020-2021**
+- **Class X**: 76%
+- **Board**: CBSE
+
+### **Certifications & Achievements**
+- **Problem Solving Through C** - NPTEL Certification
+- **Python Foundation** - Infosys Springboard
+- **Agile Scrum** - Infosys Springboard
+- **Quantum Computing Workshop** - Amrita Vishwa Vidyapeetham
+- **C Language Skill Test**: 87% (September 2024)
+- **Python Skill Test**: 87% (September 2024)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -170,7 +179,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -180,30 +189,44 @@
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced System Design and Architecture Patterns
+## Currently Learning  
+- Advanced Data Structures and Algorithms
 - Machine Learning and AI Integration
-- Cloud-Native Development with Kubernetes
-- Microservices Security and Best Practices
-- Performance Optimization and Scalability
+- Full-Stack Web Development
+- Competitive Programming Techniques
+- System Design and Architecture Patterns
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 <p align="left">
   <a href="https://github.com/Dinesh0203s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dinesh-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dinesh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/dinesh_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>  
+  <a href="https://www.linkedin.com/in/dinesh-s-4004b4292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Dineshsenathipathi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/kit27csbs15"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Dinesh_s0203/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codolio.com/profile/DInesh_s"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white"/></a>
+</p>
+
+### **Contact Information**
+- **Phone**: +91 9025943634
+- **Email**: Dineshsenathipathi@gmail.com
+- **Location**: Coimbatore, Tamil Nadu, India  
 
 ---
 
 <div align="center">
 
-### 💡 Fun Fact
+### Fun Fact
 *"Code is like humor. When you have to explain it, it's bad."*
 
 **⭐ From [Dinesh S](https://github.com/Dinesh0203s)**
+
+### **Career Objective**
+To work sincerely and put all efforts to learn as well as to contribute to the company in order to enhance technical, conceptual & interpersonal skills and also work in an organization which provides ample opportunity to grow and contribute.
+
+### **Extracurricular Activities**
+- **Photography** - Passionate about capturing moments
+- **Poster Making** - Creative design and visual communication
 
 </div>
