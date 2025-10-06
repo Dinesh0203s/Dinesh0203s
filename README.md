@@ -66,18 +66,17 @@ Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, C
 
 ### Competitive Programming  
 <p align="left">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white"/>
+  <a href="https://www.codechef.com/users/kit27csbs15"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Dinesh_s0203/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codolio.com/profile/DInesh_s"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white"/></a>
 </p>  
 
 ### Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>    
 
 ---
@@ -87,7 +86,7 @@ Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, C
 ### **Personal Portfolio Website** – Responsive Web Application  
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Clean UI/UX design, smooth-scroll navigation, responsive layout
-- **Links**: [GitHub](https://github.com/Dinesh0203s) | [Live Demo](https://dinesh-portfolio.netlify.app)
+- **Links**: [GitHub](https://github.com/Dinesh0203s) | [Live Demo](https://dinesh-resume-portfolio.vercel.app)
 - **Impact**: Showcased skills and projects with professional presentation
 
 ### **Smart Image Share** – AI-Powered Photography Platform  
@@ -153,29 +152,6 @@ Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, C
 - **Quantum Computing Workshop** - Amrita Vishwa Vidyapeetham
 - **C Language Skill Test**: 87% (September 2024)
 - **Python Skill Test**: 87% (September 2024)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh0203s&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=0D1117&text_color=FFFFFF&icon_color=0D1117&ring_color=0D1117&border_color=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh0203s&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0D1117&text_color=FFFFFF&border_color=0D1117" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh0203s&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=0D1117&fire=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D1117&sideLabels=0D1117&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh0203s&theme=react-dark&hide_border=true&bg_color=0D1117&color=0D1117&line=0D1117&point=FFFFFF&area=true&area_color=0D1117&title_color=0D1117" alt="Activity Graph" />
-
-</div>
 
 ---
 
