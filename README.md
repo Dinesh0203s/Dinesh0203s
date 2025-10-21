@@ -115,7 +115,7 @@ Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, C
 - **Badges**: Contest Contender (Diamond), Problem Solver (Silver), Daily Streak (Bronze)
 
 ### **LeetCode Profile** | [Dinesh_s0203](https://leetcode.com/u/Dinesh_s0203/)
-- **Problems Solved**: 300+
+- **Problems Solved**: 350+
 - **Contest Rating**: Active participant
 - **Focus Areas**: Data Structures, Algorithms, Dynamic Programming
 
