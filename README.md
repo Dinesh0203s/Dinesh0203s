@@ -108,7 +108,7 @@ Currently pursuing **B.Tech in Computer Science and Business Systems** at KIT, C
 ## Competitive Programming Achievements
 
 ### **CodeChef Profile** | [kit27csbs15](https://www.codechef.com/users/kit27csbs15)
-- **Current Rating**: 1659 (2★)
+- **Current Rating**: 1659 (3★)
 - **Problems Solved**: 420+
 - **Contests Participated**: 100+
 - **Global Rank**: 19,409 | **Country Rank**: 17,426
